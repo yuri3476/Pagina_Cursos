@@ -145,9 +145,12 @@ button{
 }
 
 #formulario{
-	background-color: rgba(0, 0, 139);
+	background-color: rgba(128,128,128);
 	color: #fff;
 	text-shadow: 2px 2px #000;
+	border-radius: 6%;
+	box-shadow: 2px 2px #000;
+
 }
 
 .formulario-contato{
@@ -172,7 +175,7 @@ input{
 
 .dados-formulario{
 	width: 30%;
-	
+
 
 }
 
